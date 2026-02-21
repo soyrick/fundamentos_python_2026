@@ -1,0 +1,15 @@
+Fundamentos de python
+-Variables
+-Operaciones matematicas basicas
+-Operadores de comparacion
+-Operadores logicos
+-Estructuras de control de flujo
+    -Condicionales
+    -Bucles
+-Funciones
+-Estructuras de datos
+    -Strings
+    -Listas
+    -Tuplas
+    -Diccionarios
+-Programacion orientada a objetos
